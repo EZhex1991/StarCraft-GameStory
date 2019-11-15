@@ -12,25 +12,21 @@ Second moon of Antiga Prime
 
 ## Mission Briefing
 
-RAYNOR:
+> RAYNOR:
+>> Hey, man. Headquarters has begun analysis of the discs. They expect to have them decoded shortly. I hope whatever's on those discs is worth it.
 
-> Hey, man. Headquarters has begun analysis of the discs. They expect to have them decoded shortly. I hope whatever's on those discs is worth it.
+> ADVISOR:
+>> Receiving incoming transmission from Arcturus Mengsk:
 
-ADVISOR:
+> MENGSK:
+>> You can Captain Raynor have done well, commander. I believe our efforts have weakened the Confederacy's grip on the fringe worlds, but our job out here isn't done yet. Lieutenant Kerrigan, my second in command, will elaborate.
 
-> Receiving incoming transmission from Arcturus Mengsk:
+> KERRIGAN:
 
-MENGSK:
+>> I'll get straight to the point. Our sources tell us that Antiga Prime is ready to begin open revolt against the Confederacy. Unfortunately, the Confederates seem to be aware of this as well. They've stationed a large detachment of Alpha Squadron troops there, under the command of General Duke.
 
-> You can Captain Raynor have done well, commander. I believe our efforts have weakened the Confederacy's grip on the fringe worlds, but our job out here isn't done yet. Lieutenant Kerrigan, my second in command, will elaborate.
-
-KERRIGAN:
-
-> I'll get straight to the point. Our sources tell us that Antiga Prime is ready to begin open revolt against the Confederacy. Unfortunately, the Confederates seem to be aware of this as well. They've stationed a large detachment of Alpha Squadron troops there, under the command of General Duke.
-
-MENGSK:
-
-> It will be your job, Commander, to free this colony and show our good intent to the Antigan people. Lieutenant Kerrigan will help you deal with Duke's officers. The rest of the Confederates are yours to deal with.
+> MENGSK:
+>> It will be your job, Commander, to free this colony and show our good intent to the Antigan people. Lieutenant Kerrigan will help you deal with Duke's officers. The rest of the Confederates are yours to deal with.
 
 ## Objectives
 
@@ -42,36 +38,29 @@ MENGSK:
 
 _Meeting with Kerrigan_
 
-KERRIGAN:
+> KERRIGAN:
+>> Captain Raynor, I've finished scouting out the area, and - you pig!
 
-> Captain Raynor, I've finished scouting out the area, and - you pig!
+> RAYNOR:
+>> What? I haven't even said anything to you yet!
 
-RAYNOR:
+> KERRIGAN:
+>> Yeah, but you were thinking it.
 
-> What? I haven't even said anything to you yet!
+> RAYNOR:
+>> Oh yeah, you're a telepath. Look, let's just get on with this, okay?
 
-KERRIGAN:
-
-> Yeah, but you were thinking it.
-
-RAYNOR:
-
-> Oh yeah, you're a telepath. Look, let's just get on with this, okay?
-
-KERRIGAN:
-
-> Right.
+> KERRIGAN:
+>> Right.
 
 _Bring unit to enemy turrets_
 
-KERRIGAN:
-
-> I hate these things. They can sense me even when I'm cloaked. We should take these out.
+> KERRIGAN:
+>> I hate these things. They can sense me even when I'm cloaked. We should take these out.
 
 _Bring unit near Antigan base_
 
-HINT:
-
+> HINT:  
 > Kerrigan can use her Cloaking ability to sneak by most enemy forces.  
 > Only "detectors" such as Missile Turrests can be used to spot cloaked units.
 
@@ -79,21 +68,17 @@ _Bring Kerrigan to Antigan Command Center_
 
 _Kerrigan kills the Confederate Officer_
 
-KERRIGAN:
+> KERRIGAN:
+>> I've taken care of business on this end, Commander. I think the Antigans are ready to back us up, too.
 
-> I've taken care of business on this end, Commander. I think the Antigans are ready to back us up, too.
+> ANTIGAN MARINE:
+>> That's right. We've tolerated these Confederate goons long enough!
 
-ANTIGAN MARINE:
+> ADVISOR:
+>> Commander, I'm picking up a large Confederate strike force advancing on our position.
 
-> That's right. We've tolerated these Confederate goons long enough!
+> KERRIGAN:
+>> Well, they're not wasting time.
 
-ADVISOR:
-
-> Commander, I'm picking up a large Confederate strike force advancing on our position.
-
-KERRIGAN:
-
-> Well, they're not wasting time.
-
-NEW MISSION OBJECTIVES:
-- Destroy the Confederate base.
+> NEW MISSION OBJECTIVES:  
+> -Destroy the Confederate base.

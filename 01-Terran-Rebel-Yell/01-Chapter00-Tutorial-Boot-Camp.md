@@ -12,36 +12,34 @@ Mar Sara Colony
 
 ## Mission Briefing
 
-ADVISOR:
-
-> Welcome to Mar Sara, Magistrate. The equipment demonstration you requested is prepared and may be initiated at your convenience.
->
-> Simply select "Start" to begin the demonstration. You may skip the demonstration by selecting "Skip Tutorial".
+> ADVISOR:
+>> Welcome to Mar Sara, Magistrate. The equipment demonstration you requested is prepared and may be initiated at your convenience.
+>>
+>> Simply select "Start" to begin the demonstration. You may skip the demonstration by selecting "Skip Tutorial".
 
 _The following will occur if no action is taken for a long period_
 
-ADVISOR:
-
-> Whenever you feel you are ready you may select "Start".
-
-> Anytime is fine.
-
-> You're okay to go.
-
-> Magistrate? Are you all right?
-
-> End of Briefing.
-
-> End of Briefing.  
+> ADVISOR:
+>> Whenever you feel you are ready you may select "Start".
+>
+>> Anytime is fine.
+>
+>> You're okay to go.
+>
+>> Magistrate? Are you all right?
+>
+>> End of Briefing.
+>
+>> End of Briefing.  
 (Really.)
-
-> End of Briefing.  
+>
+>> End of Briefing.  
 (This time I mean it!)
-
-> End of Briefing.  
+>
+>> End of Briefing.  
 (Hey, it's your dime anyway.)
-
-> End of Briefing.  
+>
+>> End of Briefing.  
 CHINESE LEMON CHICKEN:  
 1 pound sliced chicken brst.  
 1 tsp corn starch.  
@@ -56,87 +54,75 @@ CHINESE LEMON CHICKEN:
 
 ## Mission
 
-ADVISOR:
+> ADVISOR:
+>> The T-280 SCV is the cornerstone of our hostile-environment construction and resource gathering operations.
 
-> The T-280 SCV is the cornerstone of our hostile-environment construction and resource gathering operations.
+> SCV:
+>> Roger that!
 
-SCV:
+> ADVISOR:
+>> In order to build a thriving colony, numerous SCVs are necessary.
+>>
+>> You can build additional SCVs at a Command Center.
 
-> Roger that!
-
-ADVISOR:
-
-> In order to build a thriving colony, numerous SCVs are necessary.
-
-> You can build additional SCVs at a Command Center.
 > - Select the Command Center.  
 > - Click on the Build SCV button.
 
 _After making one additional SCV_
 
-ADVISOR:
+> ADVISOR:
+>> In order to equip additional personel you must have enough supply depots to support them.
+>
+>> You can use SCVs to build additional supply depots.
 
-> In order to equip additional personel you must have enough supply depots to support them.  
-> 
-> You can use SCVs to build additional supply depots.
-> - Select and SCV.
-> - Click on the Build Structure button.
-> - Click on the Build Supply Depot button.
+> -Select and SCV.  
+> -Click on the Build Structure button.  
+> -Click on the Build Supply Depot button.
 
 _After building additional supply depot (and deplete your stockpile)_
 
-TIP:
-
+> TIP:  
 > After receiving a transmission, you can use the SPACE BAR to center on the source of the transmission.
 
-ADVISOR:
+> ADVISOR:
+>> Magistrate, out stockpile of minerals has run out.
 
-> Magistrate, out stockpile of minerals has run out.
-
-TIP:
-
+> TIP:  
 > Your resource total is displayed in the upper right corner of the screen.
 
-ADVISOR:
-
-> Select an SCV and use the gather command on the crystals to collect more minerals.
+> ADVISOR:
+>> Select an SCV and use the gather command on the crystals to collect more minerals.
 
 _After a Mineral Field been selected_
 
-ADVISOR:
-
-> It is these blue crystals that are the source of minerals. Use your SCV's to gather additional minerals.
+> ADVISOR:
+>> It is these blue crystals that are the source of minerals. Use your SCV's to gather additional minerals.
 
 _After finished building a Refinery_
 
 > Vespene Gas counter activated.
 
-ADVISOR:
+> ADVISOR:
+>> The Refinery processes raw Vespene gas, converting it into a form which your SCVs can gather.
 
-> The Refinery processes raw Vespene gas, converting it into a form which your SCVs can gather.
-
-NOTE:
-
+> NOTE:  
 > Multiple SCVs can gather Vespene from the same Refinery, but only one SCV can be inside the Refinery at a time.
 
 _If you move your marines from base_
 
-MARINE:
+> MARINE:
+>> Permission to speak freely, sir?
+>>
+>> I'm not sure you know what you are doing. If you're going to send us into hostile territory and you want us to defend ourselves, use the ATTACK command.
+>>
+>> If you want us to ignore enemy fire and go exactly to the spot you've targeted, use the MOVE command.
 
-> Permission to speak freely, sir?
-
-> I'm not sure you know what you are doing. If you're going to send us into hostile territory and you want us to defend ourselves, use the ATTACK command.
-
-> If you want us to ignore enemy fire and go exactly to the spot you've targeted, use the MOVE command.
-
-TIP:
-
-> You can click with the Right Mouse Button to issue Auto Commands.
-> - Right clicking on the ground issues a move command.
-> - Right clicking on an enemy issues an attack command.
+> TIP:  
+> You can click with the Right Mouse Button to issue Auto Commands.  
+> -Right clicking on the ground issues a move command.  
+> -Right clicking on an enemy issues an attack command.
 
 _After successfully gather 100 Vespene Gas_
 
-ADVISOR:
-
-> This concludes the equipment demonstration. There will now be a fully catered reception at Mar Sara Base.
+> ADVISOR:
+>> This concludes the equipment demonstration. There will now be a fully catered reception at Mar Sara Base.

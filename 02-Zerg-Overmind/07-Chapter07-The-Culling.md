@@ -6,29 +6,23 @@ One Hour Later
 
 ## Mission Briefing
 
-KERRIGAN:
+> KERRIGAN:
+>> Insufferable Protoss coward! Tassadar cannot evade my wrath forever! I shall find him and-
 
-> Insufferable Protoss coward! Tassadar cannot evade my wrath forever! I shall find him and-
+> DAGGOTH:
+>> Kerrigan, Zasz is dead!
 
-DAGGOTH:
+> KERRIGAN:
+>> Oh? It is a pity that Cerebrates cannot truly be killed. I expect that the Overmind will reincarnate him soon.
 
-> Kerrigan, Zasz is dead!
+> DAGGOTH:
+>> No. He will not! The Protoss have devised some new attack. An attack powerful enough to nullify our reincarnation and give pause to the Overmind itself!
 
-KERRIGAN:
+> KERRIGAN:
+>> So. Tassadar's plan was merely a diversion. I should not have underestimated him so.
 
-> Oh? It is a pity that Cerebrates cannot truly be killed. I expect that the Overmind will reincarnate him soon.
-
-DAGGOTH:
-
-> No. He will not! The Protoss have devised some new attack. An attack powerful enough to nullify our reincarnation and give pause to the Overmind itself!
-
-KERRIGAN:
-
-> So. Tassadar's plan was merely a diversion. I should not have underestimated him so.
-
-DAGGOTH:
-
-> Without its master, Zasz's Brood has run amok and even now threatens the Hive cluster. Cerebrate, you must eradicate the rampaging Brood and stem any further damage it might cause. I shall deal with the Protoss myself.
+> DAGGOTH:
+>> Without its master, Zasz's Brood has run amok and even now threatens the Hive cluster. Cerebrate, you must eradicate the rampaging Brood and stem any further damage it might cause. I shall deal with the Protoss myself.
 
 ## Objectives
 

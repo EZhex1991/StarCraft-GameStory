@@ -9,33 +9,26 @@ Holding close orbit over Confederate Capitol World Tarsonis
 
 ## Mission Briefing
 
-ADVISOR:
+> ADVISOR:
+>> I've picked up serveral dozen Protoss warships descending upon Tarsonis. They seem to be heading on a direct course to the primary Zerg Hive.
 
-> I've picked up serveral dozen Protoss warships descending upon Tarsonis. They seem to be heading on a direct course to the primary Zerg Hive.
+> MENGSK:
+>> If they engage the Zerg, the Confederates may escape. Commander, send Lieutenant Kerrigan with a strike force to engage the Protoss. Captain Raynor and General Duke will stay behind with the command ship.
 
-MENGSK:
+> RAYNOR:
+>> First you sell out every person on this world to the Zerg, then you ask us to go up against the Protoss? And you're goin' to send Kerrigan down there with no backup?
 
-> If they engage the Zerg, the Confederates may escape. Commander, send Lieutenant Kerrigan with a strike force to engage the Protoss. Captain Raynor and General Duke will stay behind with the command ship.
+> MENGSK:
+>> I have absolute confidence in Kerrigan's ability to hold off the Protoss.
 
-RAYNOR:
+> RAYNOR:
+>> This is bullshit. Kerrigan, are you reading this?
 
-> First you sell out every person on this world to the Zerg, then you ask us to go up against the Protoss? And you're goin' to send Kerrigan down there with no backup?
+> KERRIGAN:
+>> I heard. I'm going down there. Arcturus knows what he's doing. I can't back out on him now.
 
-MENGSK:
-
-> I have absolute confidence in Kerrigan's ability to hold off the Protoss.
-
-RAYNOR:
-
-> This is bullshit. Kerrigan, are you reading this?
-
-KERRIGAN:
-
-> I heard. I'm going down there. Arcturus knows what he's doing. I can't back out on him now.
-
-RAYNOR:
-
-> Funny. I never thought of you as anyone's martyr.
+> RAYNOR:
+>> Funny. I never thought of you as anyone's martyr.
 
 ## Objectives
 
@@ -47,52 +40,40 @@ RAYNOR:
 
 _Beginning of the mission_
 
-RAYNOR:
+> RAYNOR:
+>> Why are you doing this, Kerrigan? Look, I know about your past. I mean, I've heard the rumors. I know you were a part of those experiments with the Zerg; that Mengsk came and saved you, but you don't owe him this! Hell, I've saved you butt plenty of times.
 
-> Why are you doing this, Kerrigan? Look, I know about your past. I mean, I've heard the rumors. I know you were a part of those experiments with the Zerg; that Mengsk came and saved you, but you don't owe him this! Hell, I've saved you butt plenty of times.
+> KERRIGAN:
+>> Jimmy, drop the knight-in-shining-armor routine. It suits you sometimes. Just not ... not now. I don't need to be rescued. I know what I'm doing. The Protoss are coming to destroy the entire planet, not just the Zerg. I know that because... well I just know it. I am a Ghost, remember? Once we've dealt with the Protoss, we can do something about the Zerg. Arcturus will come around. I know he will.
 
-KERRIGAN:
-
-> Jimmy, drop the knight-in-shining-armor routine. It suits you sometimes. Just not ... not now. I don't need to be rescued. I know what I'm doing. The Protoss are coming to destroy the entire planet, not just the Zerg. I know that because... well I just know it. I am a Ghost, remember? Once we've dealt with the Protoss, we can do something about the Zerg. Arcturus will come around. I know he will.
-
-RAYNOR:
-
-> I hope you're right, darlin'. Good huntin'!
+> RAYNOR:
+>> I hope you're right, darlin'. Good huntin'!
 
 _After destroying the Protoss forces_
 
-ADVISOR:
+> ADVISOR:
+>> Receiving incoming transmission:
 
-> Receiving incoming transmission:
+> KERRIGAN:
+>> This is Kerrigan. We've neutralized the Protoss, but there's a wave of Zerg advancing on this position. We need immediate evac.
 
-KERRIGAN:
+> MENGSK:
+>> Belay that order. We're moving out.
 
-> This is Kerrigan. We've neutralized the Protoss, but there's a wave of Zerg advancing on this position. We need immediate evac.
+> RAYNOR:
+>> What? You're not just gonna leave them?
 
-MENGSK:
+> MENGSK:
+>> All ships prepare to move away from Tarsonis on my mark.
 
-> Belay that order. We're moving out.
+> KERRIGAN:
+>> Uh, boys? How about that evac?
 
-RAYNOR:
+> RAYNOR:
+>> Damn you, Arcturus! Don't do this.
 
-> What? You're not just gonna leave them?
+> MENGSK:
+>> It's done. Helmsman, signal the fleet, and take us out of orbit. Now!
 
-MENGSK:
-
-> All ships prepare to move away from Tarsonis on my mark.
-
-KERRIGAN:
-
-> Uh, boys? How about that evac?
-
-RAYNOR:
-
-> Damn you, Arcturus! Don't do this.
-
-MENGSK:
-
-> It's done. Helmsman, signal the fleet, and take us out of orbit. Now!
-
-KERRIGAN:
-
-> Commander? Jim? What the hell's going on up there-
+> KERRIGAN:
+>> Commander? Jim? What the hell's going on up there-
