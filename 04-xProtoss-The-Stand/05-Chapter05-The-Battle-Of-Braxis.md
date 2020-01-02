@@ -1,6 +1,6 @@
 # The Battle of Braxis
 
-> Protoss fleet, high orbit over the planet Braxis
+Protoss fleet, high orbit over the planet Braxis
 
 ## Mission Briefing
 

@@ -1,6 +1,6 @@
 # The Quest for Uraj
 
-> Protoss Fleet Orbiting the Planet Braxis
+Protoss Fleet Orbiting the Planet Braxis
 
 ## Mission Briefing
 

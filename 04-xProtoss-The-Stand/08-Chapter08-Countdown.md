@@ -1,6 +1,6 @@
 # Countdown
 
-> Main Protoss base, the planet Shakuras
+Main Protoss base, the planet Shakuras
 
 ## Mission Briefing
 

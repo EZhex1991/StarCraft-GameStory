@@ -1,6 +1,6 @@
 # Return to Char
 
-> Protoss fleet, high orbit over the planet Char
+Protoss fleet, high orbit over the planet Char
 
 ## Mission Briefing
 

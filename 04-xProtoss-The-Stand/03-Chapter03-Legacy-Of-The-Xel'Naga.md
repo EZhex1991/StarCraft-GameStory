@@ -1,6 +1,6 @@
 # Legacy of the Xel'Naga
 
-> Main Protoss settlement at New Antioch, Shakuras
+Main Protoss settlement at New Antioch, Shakuras
 
 ## Mission Briefing
 
