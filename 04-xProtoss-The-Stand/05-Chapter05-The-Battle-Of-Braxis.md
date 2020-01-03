@@ -1,6 +1,6 @@
 # The Battle of Braxis
 
-Protoss fleet, high orbit over the planet Braxis
+> Protoss fleet, high orbit over the planet Braxis
 
 ## Mission Briefing
 
@@ -26,8 +26,8 @@ Protoss fleet, high orbit over the planet Braxis
 
 ## Objectives
 
-- Destroy all power generators to pierce the UED blockade
-- Artanis must survive
+> - Destroy all power generators to pierce the UED blockade
+> - Artanis must survive
 
 ## Mission
 

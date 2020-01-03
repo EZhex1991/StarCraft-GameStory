@@ -1,7 +1,7 @@
 # Into the Flames
 
-Citadel of the Executor  
-The following night
+> Citadel of the Executor  
+> The following night
 
 ## Mission Briefing
 
@@ -38,9 +38,9 @@ The following night
 
 ## Objectives
 
-- Distract the Zerg while Fenix gets into position
-- Kill the Zerg Cerebrate
-- Fenix must survive
+> - Distract the Zerg while Fenix gets into position
+> - Kill the Zerg Cerebrate
+> - Fenix must survive
 
 ## Mission
 

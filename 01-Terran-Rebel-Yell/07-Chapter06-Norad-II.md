@@ -1,7 +1,7 @@
 # Norad II
 
-Secret Staging Area  
-Antiga Prime Colony
+> Secret Staging Area  
+> Antiga Prime Colony
 
 ## Mission Briefing
 
@@ -40,8 +40,8 @@ Antiga Prime Colony
 
 ## Objectives
 
-- Protect Battlecruiser Norad II
-- Bring Raynor and 2 dropships to Norad II
+> - Protect Battlecruiser Norad II
+> - Bring Raynor and 2 dropships to Norad II
 
 ## Mission
 

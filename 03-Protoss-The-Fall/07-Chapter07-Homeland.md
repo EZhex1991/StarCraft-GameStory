@@ -1,7 +1,7 @@
 # Homeland
 
-Protoss Command Ship Gantrithor  
-Holding Orbit over the planet Aiur
+> Protoss Command Ship Gantrithor  
+> Holding Orbit over the planet Aiur
 
 ## Mission Briefing
 
@@ -33,8 +33,8 @@ Holding Orbit over the planet Aiur
 
 ## Objectives
 
-- Destroy the heart of the Conclave
-- Fenix, Zeratul and Tassadar must survive
+> - Destroy the heart of the Conclave
+> - Fenix, Zeratul and Tassadar must survive
 
 ## Mission
 

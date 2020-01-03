@@ -1,10 +1,12 @@
-# First Strike
+# Prologue
 
 > Since the conflict began in the Koprulu sector, the ruling council of the United Earth Directorate has closely monitored its wayward Terran colonies. Having witnessed the steady advancement of the Zerg infestation and the maneuverings of the Protoss throughout the Colonies, the ruling council has finally agreed to take control over the war-torn sector.
 >
 > Learning that a new Zerg Overmind has manifested itself upon the planet Char, the UED has sent its greatest Admiral, Gerard DuGalle, to capture the creature. As Captain of the UED fleet under DuGalle, your objective will be to storm the Terran Dominion and depose of its dictator, Emperor Mengsk I.
 
-UED Flagship Aleksander, High Orbit over the planet Braxis; Outlying Dominion stronghold
+# First Strike
+
+> UED Flagship Aleksander, High Orbit over the planet Braxis; Outlying Dominion stronghold
 
 ## Mission Briefing
 
@@ -26,7 +28,7 @@ UED Flagship Aleksander, High Orbit over the planet Braxis; Outlying Dominion st
 
 ## Objectives
 
-- Destroy the enemy command center
+> - Destroy the enemy command center
 
 ## Mission
 

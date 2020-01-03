@@ -1,6 +1,6 @@
 # Return to Char
 
-Protoss fleet, high orbit over the planet Char
+> Protoss fleet, high orbit over the planet Char
 
 ## Mission Briefing
 
@@ -30,11 +30,11 @@ Protoss fleet, high orbit over the planet Char
 
 ## Objectives
 
-- Retrieve the Khalis crystal with a probe or drone
-
-    -OR-
-
-- Do enough damage to the Overmind to send it into remission
+> - Retrieve the Khalis crystal with a probe or drone
+>
+>    -OR-
+>
+>- Do enough damage to the Overmind to send it into remission
 
 ## Mission
 

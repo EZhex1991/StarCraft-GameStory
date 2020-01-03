@@ -1,4 +1,4 @@
-# Tutorial: Boot Camp
+# Prologue
 
 > In the decade since the end of the Guild Wars, the oppressive Terran Confederacy has stood unchallenged in its supremacy over colonized space.
 > 
@@ -6,9 +6,11 @@
 > 
 > The Confederacy, fearing that the alien fleet's next target will be the colony of Mar Sara, has sent you to intervene. Acting as Magistrate, you are to safeguard the colonists and keep their state of panic from escalating any further.
 
-Office of the Colonial Magistrate  
-Mar Sara Colony  
-2:25 SCT, 12.12.2499
+# Tutorial: Boot Camp
+
+> Office of the Colonial Magistrate  
+> Mar Sara Colony  
+> 2:25 SCT, 12.12.2499
 
 ## Mission Briefing
 
@@ -48,9 +50,9 @@ CHINESE LEMON CHICKEN:
 
 ## Objectives
 
-- Build 3 Supply Depots
-- Build a Refinery
-- Gather 100 Vespene Gas
+> - Build 3 Supply Depots
+> - Build a Refinery
+> - Gather 100 Vespene Gas
 
 ## Mission
 

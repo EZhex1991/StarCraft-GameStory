@@ -1,7 +1,7 @@
 # Agent of the Swarm
 
-Primary Hive Cluster  
-Planet Char
+> Primary Hive Cluster  
+> Planet Char
 
 ## Mission Briefing
 
@@ -15,7 +15,7 @@ Planet Char
 
 ## Objectives
 
-- Protect the Chrysalis until it is ready to hatch
+> - Protect the Chrysalis until it is ready to hatch
 
 ## Mission
 

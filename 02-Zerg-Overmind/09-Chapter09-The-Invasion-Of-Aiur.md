@@ -1,8 +1,13 @@
-# The Invasion of Aiur
+# Prologue
 
 > Tassadar and the Dark Templar Zeratul survived Kerrigan's vicious attacks, but their Templar armies have been decimated. Kerrigan, left behind to hunt down and eradicate the remaining Protoss warriors, begin to scour the burning wastelands of Char for her elusive prey.
 >
 > Meanwhile, the entirety of the extended Zerg Swarm teleported through space-time and began its long awaited invasion of the hated Protoss Homeworld of Aiur.
+
+# The Invasion of Aiur
+
+> Zerg Swarm  
+> High orbit over Protoss Homeworld of Aiur
 
 ## Mission Briefing
 
@@ -17,7 +22,7 @@
 
 ## Objectives
 
-- Bring a Drone to the Khaydarin Crystal Formation
+> - Bring a Drone to the Khaydarin Crystal Formation
 
 ## Mission
 

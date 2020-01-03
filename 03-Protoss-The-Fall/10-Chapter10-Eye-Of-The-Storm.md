@@ -1,7 +1,7 @@
 # Eye of the Storm
 
-Protoss Command Ship Gantrithor  
-Low orbit over the planet Aiur
+> Protoss Command Ship Gantrithor  
+> Low orbit over the planet Aiur
 
 ## Mission Briefing
 
@@ -24,8 +24,8 @@ Low orbit over the planet Aiur
 
 ## Objectives
 
-- Destroy the Overmind
-- Tassadar, Raynor, and Zeratul must survive
+> - Destroy the Overmind
+> - Tassadar, Raynor, and Zeratul must survive
 
 ## Mission
 
@@ -40,7 +40,7 @@ _Successfully destroy the Overmind (its outer shell only though...)_
 > TASSADAR:
 >> Executor, the Overmind has been weakened, but I fear we have sustained severe damage ourselves. I will steer the Gantrithor into a collision course with the Overmind. If I can channel enough of the Dark Templar's energy through the hull of the Gantrithor, I should be able to bring swift death to the accursed abomination. Remember us, Executor. Remember what was down here today. May Adun watch over you.
 
-## Epilogue
+# Epilogue
 
 > As the chaotic, swirling energies subsided, a heavy silence settled over the battlefields of Aiur. Due to Tassadar's noble sacrifice, the Overmind was now dead and the Zerg Swarms were scattered and broken. But as the heroes surveyed their once glories homeland, they realized that their victory has cost them all but their lives. Aiur was left nothing more than a smoldering ruin. Those few Protoss who survived the final battle could only wonder what the future would hold for their race.
 >

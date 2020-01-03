@@ -1,7 +1,7 @@
 # The Hammer Falls
 
-Command Ship Hyperion  
-Holding perimeter orbit over Confederate Capitol World Tarsonis
+> Command Ship Hyperion  
+> Holding perimeter orbit over Confederate Capitol World Tarsonis
 
 ## Mission Briefing
 
@@ -40,8 +40,8 @@ Holding perimeter orbit over Confederate Capitol World Tarsonis
 
 ## Objectives
 
-- Destroy the Ion Cannon
-- Raynor must survive
+> - Destroy the Ion Cannon
+> - Raynor must survive
 
 ## Mission
 

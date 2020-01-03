@@ -1,6 +1,6 @@
 # Emperor's Flight
 
-UED flagship, Aleksander, en route to the planet Aiur
+> UED flagship, Aleksander, en route to the planet Aiur
 
 ## Mission Briefing
 
@@ -18,7 +18,7 @@ UED flagship, Aleksander, en route to the planet Aiur
 
 ## Objectives
 
-- Destroy Raynor's command center
+> - Destroy Raynor's command center
 
 ## Mission
 

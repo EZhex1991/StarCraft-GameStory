@@ -1,7 +1,7 @@
 # Higher Ground
 
-Citadel of the Executor  
-Two hours later
+> Citadel of the Executor  
+> Two hours later
 
 ## Mission Briefing
 
@@ -18,7 +18,7 @@ Two hours later
 
 ## Objectives
 
-- Destroy the Zerg colonies
+> - Destroy the Zerg colonies
 
 ## Mission
 

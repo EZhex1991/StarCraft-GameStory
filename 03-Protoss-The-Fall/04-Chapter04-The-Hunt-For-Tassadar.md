@@ -1,4 +1,4 @@
-# The Hunt for Tassadar
+# Prologue
 
 > The Zerg Hive cluster near the Scion province was destroyed, but the Protoss forces paid a high price for their victory.
 >
@@ -6,8 +6,10 @@
 >
 > Now, with only a small fleet of protection, Aldaris and the Executor have traveled to the ash world of Char, hoping that Tassadar is still somewhere to be found.
 
-Protoss Command Ship Gantrithor  
-Holding orbit over the planet Char
+# The Hunt for Tassadar
+
+> Protoss Command Ship Gantrithor  
+> Holding orbit over the planet Char
 
 ## Mission Briefing
 
@@ -22,8 +24,8 @@ Holding orbit over the planet Char
 
 ## Objectives
 
-- Find Tassadar
-- Bring Tassadar to the beacon
+> - Find Tassadar
+> - Bring Tassadar to the beacon
 
 ## Mission
 

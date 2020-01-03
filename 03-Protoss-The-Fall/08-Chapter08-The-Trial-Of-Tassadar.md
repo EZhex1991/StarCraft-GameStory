@@ -1,9 +1,11 @@
-# The Trial of Tassadar
+# Prologue
 
 > Tassadar was taken into Judicator custody and sentenced to stand trial for his crimes against the Conclave. Fenix, Raynor and Tassadar's followers escaped from the Conclave's agents, as the Dark Templar slipped away in the chaos.
 
-Protoss Command Ship Gantrithor  
-Holding Orbit over the planet Aiur
+# The Trial of Tassadar
+
+> Protoss Command Ship Gantrithor  
+> Holding Orbit over the planet Aiur
 
 ## Mission Briefing
 
@@ -20,8 +22,8 @@ Holding Orbit over the planet Aiur
 
 ## Objectives
 
-- Destroy the Stasis Cell
-- Fenix and Raynor must survive
+> - Destroy the Stasis Cell
+> - Fenix and Raynor must survive
 
 ## Mission
 

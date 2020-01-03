@@ -1,7 +1,7 @@
 # Eye for an Eye
 
-Primary Hive Cluster  
-Planet Char
+> Primary Hive Cluster  
+> Planet Char
 
 ## Mission Briefing
 
@@ -17,9 +17,9 @@ Planet Char
 
 ## Objectives
 
-- Destroy the Protoss bases
-- Let no Dark Templar escape
-- Kerrigan must survive
+> - Destroy the Protoss bases
+> - Let no Dark Templar escape
+> - Kerrigan must survive
 
 ## Mission
 

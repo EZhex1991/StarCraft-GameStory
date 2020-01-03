@@ -1,4 +1,4 @@
-# Revolution
+# Prologue
 
 > In the wake of the chaos resulting from the Zerg invasion, The Sons of Korhal escaped with the stolen data discs.
 >
@@ -7,8 +7,10 @@
 > Thirtheen hours after the evacuation of Mar Sara, Protoss warships took up orbit around the colony and unleashed a massive planetary bombardment.  
 All life upon the surface was extinguished.
 
-Secret Staging Area  
-Second moon of Antiga Prime
+# Revolution
+
+> Secret Staging Area  
+> Second moon of Antiga Prime
 
 ## Mission Briefing
 
@@ -30,9 +32,9 @@ Second moon of Antiga Prime
 
 ## Objectives
 
-- Bring Kerrigan to the Antigan Command Center
-- Defend the Antigan rebels
-- Raynor and Kerrigan must survive
+> - Bring Kerrigan to the Antigan Command Center
+> - Defend the Antigan rebels
+> - Raynor and Kerrigan must survive
 
 ## Mission
 

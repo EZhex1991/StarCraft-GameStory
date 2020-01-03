@@ -1,7 +1,7 @@
 # The Trump Card
 
-Secret Staging Area  
-Antiga Prime Colony
+> Secret Staging Area  
+> Antiga Prime Colony
 
 ## Mission Briefing
 
@@ -35,8 +35,8 @@ Antiga Prime Colony
 
 ## Objectives:
 
-- Bring the Psi Emitter to the enemy base
-- Kerrigan must survive
+> - Bring the Psi Emitter to the enemy base
+> - Kerrigan must survive
 
 ## Mission
 

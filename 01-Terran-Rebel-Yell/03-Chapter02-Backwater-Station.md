@@ -1,7 +1,7 @@
 # Backwater Station
 
-Office of the Colonial Magistrate  
-Mar Sara Colony
+> Office of the Colonial Magistrate  
+> Mar Sara Colony
 
 ## Mission Briefing
 
@@ -22,8 +22,8 @@ Mar Sara Colony
 
 ## Objectives
 
-- Eradicate the alien infestation
-- Raynor must survive
+> - Eradicate the alien infestation
+> - Raynor must survive
 
 ## Mission
 

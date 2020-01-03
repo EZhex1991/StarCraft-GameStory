@@ -1,6 +1,6 @@
 # Ruins of Tarsonis
 
-UED Flagship Aleksander, low orbit over the planet Tarsonis; former capitol world of the Terran Confederacy
+> UED Flagship Aleksander, low orbit over the planet Tarsonis; former capitol world of the Terran Confederacy
 
 ## Mission Briefing
 
@@ -32,8 +32,8 @@ UED Flagship Aleksander, low orbit over the planet Tarsonis; former capitol worl
 
 ## Objectives
 
-- Bring Duran to the Psi Disrupter
-- Duran must survive
+> - Bring Duran to the Psi Disrupter
+> - Duran must survive
 
 ## Mission
 

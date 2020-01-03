@@ -1,6 +1,6 @@
 # The Dylarian Shipyards
 
-UED Flagship Aleksander, holding perimeter orbit over the Dylarian Shipyards, outlying Dominion trade center
+> UED Flagship Aleksander, holding perimeter orbit over the Dylarian Shipyards, outlying Dominion trade center
 
 ## Mission Briefing
 
@@ -32,8 +32,8 @@ UED Flagship Aleksander, holding perimeter orbit over the Dylarian Shipyards, ou
 
 ## Objectives:
 
-- Steal battlecruisers
-- Defeat the Dominion strike force
+> - Steal battlecruisers
+> - Defeat the Dominion strike force
 
 ## Mission
 

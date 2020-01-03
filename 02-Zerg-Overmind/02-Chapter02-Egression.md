@@ -1,6 +1,6 @@
 # Egression
 
-Confederate Capitol World Tarsonis
+> Confederate Capitol World Tarsonis
 
 ## Mission Briefing
 
@@ -17,7 +17,7 @@ Confederate Capitol World Tarsonis
 
 ## Objectives
 
-- Bring the Chrysalis to the beacon
+> - Bring the Chrysalis to the beacon
 
 ## Mission
 

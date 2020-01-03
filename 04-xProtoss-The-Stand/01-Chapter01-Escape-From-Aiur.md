@@ -1,6 +1,10 @@
+# Prologue
+
+> The nefarious Zerg Overmind has been destroyed and the Protoss homeworld of Aiur now lies in smoking ruin. As the Executor of the remaining Protoss forces, you must now attempt to reunite your beleaguered people and save them from the ravenous Zerg who still roam mindlessly across the blackened fields of Aiur.
+
 # Escape From Aiur
 
-Isolated Protoss base on the planet Aiur
+> Isolated Protoss base on the planet Aiur
 
 ## Mission Briefing
 
@@ -39,8 +43,8 @@ Isolated Protoss base on the planet Aiur
 
 ## Objectives
 
-- Bring Zeratul to the warp gate
-- Zeratul must survive
+> - Bring Zeratul to the warp gate
+> - Zeratul must survive
 
 ## Mission
 

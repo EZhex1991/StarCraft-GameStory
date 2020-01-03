@@ -1,6 +1,6 @@
 # Patriot's Blood
 
-UED flagship, Aleksander, holding perimeter orbit over the planet Braxis
+> UED flagship, Aleksander, holding perimeter orbit over the planet Braxis
 
 ## Mission Briefing
 
@@ -37,8 +37,8 @@ UED flagship, Aleksander, holding perimeter orbit over the planet Braxis
 
 ## Objectives
 
-- Find and kill Admiral Stukov
-- Duran must survive
+> - Find and kill Admiral Stukov
+> - Duran must survive
 
 ## Mission
 

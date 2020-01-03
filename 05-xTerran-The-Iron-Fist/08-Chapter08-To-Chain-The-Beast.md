@@ -1,6 +1,6 @@
 # To Chain the Beast
 
-UED flagship, Aleksander, low orbit over the planet Char
+> UED flagship, Aleksander, low orbit over the planet Char
 
 ## Mission Briefing
 
@@ -20,8 +20,8 @@ UED flagship, Aleksander, low orbit over the planet Char
 
 ## Objectives
 
-- Bring a medic to each of the beacons surrounding the Overmind
-- Kill Zerg cerebrates to weaken the Overmind's defenses
+> - Bring a medic to each of the beacons surrounding the Overmind
+> - Kill Zerg cerebrates to weaken the Overmind's defenses
 
 ## Mission
 

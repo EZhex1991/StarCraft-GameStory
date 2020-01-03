@@ -1,11 +1,13 @@
-# New Gettysburg
+# Prologue
 
 > Like a beacon, the combined power of the Psi-Emitters reached out to the far corners of the Terran Sector, luring billions of Zerg to the capitol world of Tarsonis.
 >
 > The Zerg, overrunning the Confederacy's best defences, proceeded to lay waste to Tarsonis' major cities and industrial centers.
 
-Command Ship Hyperion  
-Holding close orbit over Confederate Capitol World Tarsonis
+# New Gettysburg
+
+> Command Ship Hyperion  
+> Holding close orbit over Confederate Capitol World Tarsonis
 
 ## Mission Briefing
 
@@ -32,9 +34,9 @@ Holding close orbit over Confederate Capitol World Tarsonis
 
 ## Objectives
 
-- Destroy the Protoss force
-- All Zerg buildings must survive
-- Kerrigan must survive
+> - Destroy the Protoss force
+> - All Zerg buildings must survive
+> - Kerrigan must survive
 
 ## Mission
 

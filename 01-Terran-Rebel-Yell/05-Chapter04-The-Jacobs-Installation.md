@@ -1,8 +1,8 @@
 # The Jacobs Installation
 
-Office of the former Colonial Magistrate  
-Mar Sara Colony  
-Three hours after colonial evacuation
+> Office of the former Colonial Magistrate  
+> Mar Sara Colony  
+> Three hours after colonial evacuation
 
 ## Mission Briefing
 
@@ -22,8 +22,8 @@ Three hours after colonial evacuation
 
 ## Objectives
 
-- Retrieve data disc from the Confederate network
-- Raynor must survive
+> - Retrieve data disc from the Confederate network
+> - Raynor must survive
 
 ## Mission
 

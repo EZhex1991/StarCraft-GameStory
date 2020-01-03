@@ -1,7 +1,7 @@
 # The Dark Templar
 
-Primary Hive Cluster  
-Planet Char
+> Primary Hive Cluster  
+> Planet Char
 
 ## Mission Briefing
 
@@ -26,8 +26,8 @@ Planet Char
 
 ## Objectives
 
-- Exterminate the Protoss intruders
-- Kerrigan must survive
+> - Exterminate the Protoss intruders
+> - Kerrigan must survive
 
 ## Mission
 

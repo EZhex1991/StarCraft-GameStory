@@ -1,9 +1,11 @@
-# The New Dominion
+# Prologue
 
 > With the Protoss forces beaten and scattered, the Overmind has withdrawn the Swarms to the remote ash world of Char.
 
-Primary Hive Cluster  
-Planet Char
+# The New Dominion
+
+> Primary Hive Cluster  
+> Planet Char
 
 ## Mission Briefing
 
@@ -21,8 +23,8 @@ Planet Char
 
 ## Objectives
 
-- Protect the Chrysalis
-- Eliminate the Terran presence
+> - Protect the Chrysalis
+> - Eliminate the Terran presence
 
 ## Mission
 

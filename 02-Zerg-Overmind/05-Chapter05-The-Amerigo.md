@@ -1,11 +1,13 @@
-# The Amerigo
+# Prologue
 
 > Kerrigan, the newest and most powerful agent of the Overmind, has arisen from her embryonic Chrysalis, but her formidible powers are still not fully functional.
 >
 > Kerrigan must now seek to unravel the Ghost conditioning that keeps her powers in check. Once done, she will lead the Overmind's minions to complete domination over the unsuspecting Protoss.
 
-Primary Hive Cluster  
-Planet Char
+# The Amerigo
+
+> Primary Hive Cluster  
+> Planet Char
 
 ## Mission Briefing
 
@@ -28,8 +30,8 @@ Planet Char
 
 ## Objectives
 
-- Bring Kerrigan to the Supercomputer
-- Kerrigan must survive
+> - Bring Kerrigan to the Supercomputer
+> - Kerrigan must survive
 
 ## Mission
 

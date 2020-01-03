@@ -1,8 +1,8 @@
 # The Culling
 
-Primary Hive Cluster  
-Planet Char  
-One Hour Later
+> Primary Hive Cluster  
+> Planet Char  
+> One Hour Later
 
 ## Mission Briefing
 
@@ -26,4 +26,4 @@ One Hour Later
 
 ## Objectives
 
-- Eradicate every last remnant of the Garm Brood
+> - Eradicate every last remnant of the Garm Brood

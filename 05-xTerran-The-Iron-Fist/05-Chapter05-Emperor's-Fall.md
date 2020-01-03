@@ -1,6 +1,6 @@
 # Emperor's Fall
 
-UED command center, near the outskirts of Augustgrad; capital city of Korhal
+> UED command center, near the outskirts of Augustgrad; capital city of Korhal
 
 ## Mission Briefing
 
@@ -27,7 +27,7 @@ UED command center, near the outskirts of Augustgrad; capital city of Korhal
 
 ## Objectives
 
-- Destroy Mengsk's Command Center
+> - Destroy Mengsk's Command Center
 
 ## Mission
 

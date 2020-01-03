@@ -1,6 +1,6 @@
 # The Insurgent
 
-Executor's Citadel at New Antioch, Shakuras
+> Executor's Citadel at New Antioch, Shakuras
 
 ## Mission Briefing
 
@@ -27,7 +27,7 @@ Executor's Citadel at New Antioch, Shakuras
 
 ## Objectives
 
-- Kill the traitor Aldaris
+> - Kill the traitor Aldaris
 
 ## Mission
 

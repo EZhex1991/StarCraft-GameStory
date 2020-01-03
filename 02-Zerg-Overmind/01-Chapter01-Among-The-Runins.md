@@ -1,8 +1,10 @@
-# Among the Ruins
+# Prologue
 
 > The Swarms have crushed the meager human resistance and laid waste to nine of the thirteen Terran worlds. Shortly after the fall of the Terran capitol world of Tarsonis, the main Protoss fleet abandoned the Terran Sector. Now, efforts continue on Tarsonis to weed out the remaining Protoss forces.
 
-Confederate Capitol World Tarsonis
+# Among the Ruins
+
+> Confederate Capitol World Tarsonis
 
 ## Mission Briefing
 
@@ -17,9 +19,9 @@ Confederate Capitol World Tarsonis
 
 ## Objectives
 
-- Create a Spawning Pool
-- Create a Hydralisk Den
-- Protect the Chrysalis
+> - Create a Spawning Pool
+> - Create a Hydralisk Den
+> - Protect the Chrysalis
 
 ## Mission
 

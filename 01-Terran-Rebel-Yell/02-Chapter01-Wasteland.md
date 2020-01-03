@@ -1,7 +1,7 @@
 # Wasteland
 
-Office of the Colonial Magistrate
-Mar Sara Colony
+> Office of the Colonial Magistrate  
+> Mar Sara Colony
 
 ## Mission Briefing
 
@@ -16,9 +16,9 @@ Mar Sara Colony
 
 ## Objectives
 
-- Find Raynor
-- Build a Barracks
-- Train 10 Marines
+> - Find Raynor
+> - Build a Barracks
+> - Train 10 Marines
 
 ## Mission
 

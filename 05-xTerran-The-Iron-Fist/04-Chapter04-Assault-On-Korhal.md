@@ -1,6 +1,6 @@
 # Assault on Korhal
 
-UED Flagship Aleksander, low orbit over the planet Korhal; Dominion throne-world
+> UED Flagship Aleksander, low orbit over the planet Korhal; Dominion throne-world
 
 ## Mission Briefing
 
@@ -21,11 +21,11 @@ UED Flagship Aleksander, low orbit over the planet Korhal; Dominion throne-world
 
 ## Objectives
 
-- Destroy the enemy physics labs
-
-    -OR-
-
-- Destroy the enemy nuclear silos
+> - Destroy the enemy physics labs
+> 
+>   -OR-
+>
+> - Destroy the enemy nuclear silos
 
 ## Mission
 

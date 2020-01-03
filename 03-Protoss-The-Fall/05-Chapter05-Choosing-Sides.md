@@ -1,8 +1,8 @@
 # Choosing Sides
 
-Protoss Command Ship Gantrithor  
-Low orbit over the planet Char  
-One hour later
+> Protoss Command Ship Gantrithor  
+> Low orbit over the planet Char  
+> One hour later
 
 ## Mission Briefing
 
@@ -33,7 +33,7 @@ One hour later
 
 ## Objectives
 
-- Bring Tassadar and two Zealots to the installation entrace
+> - Bring Tassadar and two Zealots to the installation entrace
 
 ## Mission
 

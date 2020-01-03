@@ -1,11 +1,13 @@
-# First Strike
+# Prologue
 
 > The Zerg Overmind has succeeded in invading the Protoss Homeworld of Aiur and has embedded itself into the crust of the planet.
 >
 > Now, as the agents of the sinister Overmind spread chaos and destruction across the face of Aiur, the stalwart Protoss defenders prepare themselves for the coming onslaught.
 
-Citadle of the new Protoss Executor  
-Two days after the Zerg invasion
+# First Strike
+
+> Citadle of the new Protoss Executor  
+> Two days after the Zerg invasion
 
 ## Mission Briefing
 
@@ -18,9 +20,9 @@ Two days after the Zerg invasion
 
 ## Objectives
 
-- Meet Fenix at Antioch
-- Destroy the Zerg base
-- Fenix must survive
+> - Meet Fenix at Antioch
+> - Destroy the Zerg base
+> - Fenix must survive
 
 ## Mission
 

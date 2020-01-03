@@ -1,7 +1,7 @@
 # Shadow Hunters
 
-Protoss Command Ship Gantrithor  
-Low orbit over the planet Aiur
+> Protoss Command Ship Gantrithor  
+> Low orbit over the planet Aiur
 
 ## Mission Briefing
 
@@ -21,5 +21,5 @@ Low orbit over the planet Aiur
 
 ## Objectives
 
-- Use Zeratul to destroy the Zerg Cerebrates
-- Zeratul and Fenix must survive
+> - Use Zeratul to destroy the Zerg Cerebrates
+> - Zeratul and Fenix must survive

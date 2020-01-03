@@ -1,6 +1,6 @@
 # Dunes of Shakuras
 
-Protoss base camp on the planet Shakuras
+> Protoss base camp on the planet Shakuras
 
 ## Mission Briefing
 
@@ -12,7 +12,7 @@ Protoss base camp on the planet Shakuras
 
 ## Objectives
 
-- Establish a base and find the Dark Templar
+> - Establish a base and find the Dark Templar
 
 ## Mission
 

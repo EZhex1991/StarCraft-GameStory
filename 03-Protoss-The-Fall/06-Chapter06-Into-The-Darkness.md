@@ -1,7 +1,7 @@
 # Into the Darkness
 
-Protoss Command Ship Gantrithor  
-Low orbit over the planet Char
+> Protoss Command Ship Gantrithor  
+> Low orbit over the planet Char
 
 ## Mission Briefing
 
@@ -10,8 +10,8 @@ Low orbit over the planet Char
 
 ## Objectives
 
-- Rescue Zeratul
-- Tassadar must survive
+> - Rescue Zeratul
+> - Tassadar must survive
 
 ## Mission
 

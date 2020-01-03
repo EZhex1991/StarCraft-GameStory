@@ -1,7 +1,7 @@
 # Desperate Alliance
 
-Office of the Colonial Magistrate  
-Mar Sara Colony
+> Office of the Colonial Magistrate  
+> Mar Sara Colony
 
 ## Mission Briefing
 
@@ -24,7 +24,7 @@ Mar Sara Colony
 
 ## Objectives
 
-- Survive for 30 minutes
+> - Survive for 30 minutes
 
 ## Mission
 

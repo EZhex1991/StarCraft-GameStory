@@ -1,6 +1,6 @@
 # Countdown
 
-Main Protoss base, the planet Shakuras
+> Main Protoss base, the planet Shakuras
 
 ## Mission Briefing
 
@@ -30,9 +30,9 @@ Main Protoss base, the planet Shakuras
 
 ## Objectives:
 
-- Bring Artanis and Zeratul to the Temple
-- Protect the Temple from the Zerg
-- Artanis and Zeratul must survive
+> - Bring Artanis and Zeratul to the Temple
+> - Protect the Temple from the Zerg
+> - Artanis and Zeratul must survive
 
 ## Mission
 

@@ -1,11 +1,13 @@
-# The Big Push
+# Prologue
 
 > The Zerg, lured by the Psi Emitter's signal, descended upon the unsuspecting Confederate forces and annihilated them.
 >
 > Once again, the Protoss fleet, under the command of High Templar Tassadar, arrived and incinerated the planet.
 
-Command Ship Hyperion  
-Holding perimeter orbit over Confederate Captiol World Tarsonis
+# The Big Push
+
+> Command Ship Hyperion  
+> Holding perimeter orbit over Confederate Captiol World Tarsonis
 
 ## Mission Briefing
 
@@ -29,8 +31,8 @@ Holding perimeter orbit over Confederate Captiol World Tarsonis
 
 ## Objectives
 
-- Eliminate the Confederate forces
-- Duke must survive
+> - Eliminate the Confederate forces
+> - Duke must survive
 
 ## Mission
 

@@ -1,7 +1,7 @@
 # Full Circle
 
-Zerg Swarm  
-High orbit over Protoss Homeworld of Aiur
+> Zerg Swarm  
+> High orbit over Protoss Homeworld of Aiur
 
 ## Mission Briefing
 
@@ -14,7 +14,7 @@ High orbit over Protoss Homeworld of Aiur
 
 ## Objectives
 
-- Destroy the Protoss Temple
+> - Destroy the Protoss Temple
 
 ## Mission
 
